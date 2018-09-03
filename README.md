@@ -1,7 +1,9 @@
 # vlookup
 vlookup using python3
 
-Here we copy values from other files to the main file matching keys, based on priority, for all entries where phone number matches.
+Here we copy values from other files to the main file by matching keys, based on the priority.
+
+For all the entries in the files where phone number matches.
 
 # Requirements
 
